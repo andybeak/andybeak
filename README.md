@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Vue, Go**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP** and scaling
 
 - 📫 How to reach me **andy.beak@gmail.com**
 
