@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 
-- 🔭 I’m currently working on [Bumble user integrity team](https://bumble.com/)
+- 🔭 I’m currently working at [JustPark](https://justpark.com/)
 
-- 🌱 I’m currently learning **Vue, Go**
+- 🌱 I’m currently learning **Go, Dart**
 
 - 💬 Ask me about **PHP** and scaling
 
